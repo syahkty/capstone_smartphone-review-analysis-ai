@@ -20,13 +20,18 @@ Proyek ini bertujuan membangun sistem cerdas berbasis AI untuk menganalisis ribu
 
 ## 📊 Insight & Findings
 
-### 🔍 Apple
-- **Positif:** Kamera dan performa merupakan aspek yang paling sering dipuji.
-- **Negatif:** Banyak keluhan soal daya tahan baterai, dianggap tidak sebanding dengan harga premium.
+### 🔍 Samsung
 
-### 🔍 Lenovo
-- **Positif:** Harga dan baterai mendapatkan ulasan positif secara konsisten.
-- **Negatif:** Beberapa pengguna merasa kualitas kamera masih bisa ditingkatkan.
+#### ✅ Ulasan Positif
+- Desain slim, elegan, dan mudah digunakan dengan satu tangan.
+- Ukuran layar dinilai pas dan mendukung multitasking.
+- Fitur lengkap dan performa multitasking yang nyaman.
+
+#### ❌ Ulasan Negatif
+- Perangkat lunak sering bermasalah tergantung aplikasi, terutama saat memutar musik.
+- Masalah koneksi data dan WiFi.
+- Beberapa fitur lambat atau tidak merespons dengan baik.
+- Pengguna dari Galaxy S3 kesulitan beradaptasi dengan antarmuka Android versi baru.
 
 ---
 
